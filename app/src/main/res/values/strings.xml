@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Smart Attendence2.0</string>
+
+    <!-- Content Descriptions -->
+    <string name="app_logo">App Logo</string>
+
+    <!-- Button Texts -->
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="Email">Email Address</string>
+    <string name="Password">Password</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+
+    <!-- Password Rules -->
+    <integer name="min_password_length">8</integer>
+    <integer name="min_letters">1</integer>
+    <integer name="min_numeric">1</integer>
+    <integer name="min_symbols">1</integer>
+    <integer name="min_nonletter">1</integer>
+    <integer name="max_password_length">16</integer>
+
+    <!-- Drawer Strings -->
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string-array name="dropdown_items">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+        <item>Option 4</item>
+    </string-array>
+
+</resources>
